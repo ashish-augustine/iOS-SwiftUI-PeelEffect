@@ -10,5 +10,4 @@ You can customize the PeelEffect by specifying parameters such as the anchor poi
 
 To apply the PeelEffect in SwiftUI, you typically use the .transition() modifier along with the PeelEffect() initializer. This combination allows you to seamlessly integrate the peel effect into your view hierarchy and trigger the animation when desired, such as when a button is tapped or a certain condition is met.
 
-Overall, the SwiftUI PeelEffect is a powerful tool that enhances the visual appeal and interactivity of your app's user interface by providing a realistic and captivating animation of peeling back a view to reveal its underlying content.
-# SwiftUI-PeelEffect
+Overall, the SwiftUI PeelEffect is a powerful tool that enhances the visual appeal and interactivity of your app's user interface by providing a realistic and captivating animation of peeling back a view to reveal its underlying content. 
