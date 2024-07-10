@@ -2,7 +2,7 @@
 //  PeelEffect.swift
 //  SwiftUI-PeelEffect
 //
-//  Created by Jay on 15/06/23.
+//  Created by Ashish Augustine on 15/06/23.
 //
 
 import SwiftUI
